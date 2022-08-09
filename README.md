@@ -25,3 +25,7 @@ Data for the case is available in CSV format having 6362620 rows and 10 columns.
 # Solution
 
 
+## Libraries Used:
+
+numpy, pandas, matplotlib, seaborn,  
+warnings, scikit-learn, scipy
