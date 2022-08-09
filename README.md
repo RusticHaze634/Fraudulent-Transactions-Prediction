@@ -50,6 +50,10 @@ warnings, scikit-learn, scipy
 - Check info, shape of data
 - Check null values
 - Value count of the Target column (**Highly Imbalanced Column**)
+- **Detecting Multicollinearity with VIF**
+- **LABEL ENCODING of Categorical Data**
+- ![image](https://user-images.githubusercontent.com/38161827/183543606-48878221-3afa-43b9-b9aa-e162e9fe47ce.png)
+
 
 
 ## Data Visualization:
