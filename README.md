@@ -52,3 +52,7 @@ warnings, scikit-learn, scipy
 - Value count of the Target column (**Highly Imbalanced Column**)
 
 
+## Data Visualization:
+
+**Distribution of Genuine and fraud Trandactions**
+![image](https://user-images.githubusercontent.com/38161827/183542311-4bac9a00-b234-41be-8ef9-3c7297d3ac40.png)
