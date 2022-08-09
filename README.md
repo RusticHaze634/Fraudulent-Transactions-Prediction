@@ -58,4 +58,13 @@ warnings, scikit-learn, scipy
 
 ![image](https://user-images.githubusercontent.com/38161827/183542311-4bac9a00-b234-41be-8ef9-3c7297d3ac40.png)
 
+**Distribution of Fraud Transaction**
+
+![image](https://user-images.githubusercontent.com/38161827/183542535-3d139a02-1b08-499d-9813-3a132be02ab7.png)
+
+**Feature Correlation HEATMAP before Data-Preprocessing**
+
+![image](https://user-images.githubusercontent.com/38161827/183542632-c7106ad4-ee7f-4d81-960b-1ed713b43ef3.png)
+
+**Feature Correlation HEATMAP for after Data-Preprocessing**
 
