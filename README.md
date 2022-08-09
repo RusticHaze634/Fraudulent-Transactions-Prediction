@@ -8,5 +8,5 @@ _This case requires to develop a model for predicting fraudulent transactions fo
 
 ## Dataset
 
-Data for the case is available in CSV format having 6362620 rows and 10 columns.
-**Data Link : ** https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
+Data for the case is available in CSV format having 6362620 rows and 10 columns.  
+**Data Link :** https://www.kaggle.com/datasets/chitwanmanchanda/fraudulent-transactions-data
