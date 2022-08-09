@@ -82,9 +82,18 @@ warnings, scikit-learn, scipy
 - RANDOM FOREST
 
 **Trial 2:** 
-- ensemble of 
+- Ensemble of 
   - XGboost, 
   - CatBoost, 
   - LGBMClassifier
+
+## Results:
+
+### Classification Reports
+- ![image](https://user-images.githubusercontent.com/38161827/183544266-2af706c8-377a-4df9-ab93-e0c6c83b92cc.png)
+- ![image](https://user-images.githubusercontent.com/38161827/183544289-cca73b9f-162d-4e84-96f6-e1eb5ff0a5df.png)
+- Classification Report of Ensemble model
+- ![image](https://user-images.githubusercontent.com/38161827/183544349-c3fee527-9324-47fc-aedb-095cf71fa89c.png)
+
 
 
