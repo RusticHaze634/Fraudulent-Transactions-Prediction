@@ -96,4 +96,12 @@ warnings, scikit-learn, scipy
 - ![image](https://user-images.githubusercontent.com/38161827/183544349-c3fee527-9324-47fc-aedb-095cf71fa89c.png)
 
 
+## CONCLUSION
 
+From above test, it was found that
+
+Accuracy of both Random Forest and Decision Tree is almost equal;
+The precision of Random Forest is more than that of DT.
+Boosting models like XGboost, CatBoost, LGBMClassifier gives higher accuracy but lesser precision if tested individually. But if they are tested as an ensemble, it gives far better precision score.
+In a fraud detection model, Precision is highly important because we want Fraud transactions to be predicted correctly and Genuine transactions to be left out.
+If either of the 2 reasons are not fulfiiled we may catch the innocent and leave the culprit.
