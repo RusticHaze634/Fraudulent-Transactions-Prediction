@@ -51,9 +51,9 @@ warnings, scikit-learn, scipy
 - Check null values
 - Value count of the Target column (**Highly Imbalanced Column**)
 - **Detecting Multicollinearity with VIF**
+- ![image](https://user-images.githubusercontent.com/38161827/183543698-b07314ba-96d5-4a6e-9d2f-cce89e9716f0.png)
 - **LABEL ENCODING of Categorical Data**
-- ![image](https://user-images.githubusercontent.com/38161827/183543606-48878221-3afa-43b9-b9aa-e162e9fe47ce.png)
-
+- **Normalizing** _'amount'_ data using **StandardScaler**
 
 
 ## Data Visualization:
@@ -73,5 +73,18 @@ warnings, scikit-learn, scipy
 **Feature Correlation HEATMAP for after Data-Preprocessing**
 
 ![image](https://user-images.githubusercontent.com/38161827/183543238-c7522f3a-70f8-410e-a9ed-b5db8218229f.png)
+
+
+## Models Used:
+
+**Trial 1:** 
+- DECISION TREE
+- RANDOM FOREST
+
+**Trial 2:** 
+- ensemble of 
+  - XGboost, 
+  - CatBoost, 
+  - LGBMClassifier
 
 
